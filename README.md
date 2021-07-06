@@ -7,3 +7,5 @@
 [![Pylint](https://github.com/arpithakori/demo_inventory/actions/workflows/pylint.yml/badge.svg)](https://github.com/arpithakori/demo_inventory/actions/workflows/pylint.yml)
 
 [![CI](https://github.com/arpithakori/demo_inventory/actions/workflows/codacy.yml/badge.svg)](https://github.com/arpithakori/demo_inventory/actions/workflows/codacy.yml)
+
+[![CI-Coverage](https://github.com/arpithakori/demo_inventory/actions/workflows/CI-coverage.yml/badge.svg)](https://github.com/arpithakori/demo_inventory/actions/workflows/CI-coverage.yml)
